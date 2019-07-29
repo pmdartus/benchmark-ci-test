@@ -1,0 +1,10 @@
+{
+  "name": "benchmark-ci-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@best/cli": "^4.0.0-alpha4",
+    "@best/runner-headless": "^4.0.0-alpha4"
+  }
+}
